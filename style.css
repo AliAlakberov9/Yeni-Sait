@@ -4,8 +4,19 @@ body {
 }
 
 a {
-  color: orange;
+  color: black;
 }
 a:hover {
   color: black;
+}
+
+header {
+  padding: 50px;
+}
+header .imgbox {
+  width: 300px;
+}
+header nav a {
+  margin-right: 20px;
+  font-size: 30px;
 }/*# sourceMappingURL=style.css.map */
