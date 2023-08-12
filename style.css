@@ -11,12 +11,27 @@ a:hover {
 }
 
 header {
-  padding: 50px;
+  position: absolute;
+  right: 70px;
+  top: 30px;
 }
 header .imgbox {
-  width: 300px;
+  width: 120px;
+  margin: 0 480px 0 0px;
+}
+header nav {
+  margin: 0 300px 0 0px;
 }
 header nav a {
   margin-right: 20px;
-  font-size: 30px;
+  font-size: 15px;
+  color: #ffffff;
+}
+
+#welcome .box {
+  width: 1500px;
+  height: 600px;
+  background-image: url("Ass-1/header-bg.jpg");
+  background-size: cover;
+  background-position: center;
 }/*# sourceMappingURL=style.css.map */
