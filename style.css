@@ -34,4 +34,31 @@ header nav a {
   background-image: url("Ass-1/header-bg.jpg");
   background-size: cover;
   background-position: center;
+}
+#welcome .box .minibox {
+  position: static;
+}
+#welcome .box .minibox h1 {
+  position: absolute;
+  top: 220px;
+  right: 720px;
+  font-size: 30px;
+  color: #ffffff;
+}
+#welcome .box .minibox h2 {
+  position: absolute;
+  top: 270px;
+  right: 540px;
+  font-size: 75px;
+  color: #ffffff;
+}
+#welcome .box .minibox .btn {
+  position: absolute;
+  top: 380px;
+  right: 760px;
+  padding: 10px 35px;
+  background-color: #d8db08;
+  font-size: 20px;
+  border-radius: 5px;
+  color: #ffffff;
 }/*# sourceMappingURL=style.css.map */
