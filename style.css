@@ -188,8 +188,14 @@ header nav a {
   border: 3px solid #000000;
   border-radius: 100px;
 }
-#about .box1 .imhbox {
+#about .box1 .imgbox {
   width: 200px;
+}
+#about .box {
+  border: 3px solid #000000;
+  height: 250px;
+  width: 0px;
+  margin: 1px 0 0 100px;
 }
 #about .textbox h3 {
   margin: 0 10px 10px 440px;
@@ -205,5 +211,32 @@ header nav a {
   text-align: right;
   font-size: 25px;
   margin: 10px 10px 0 200px;
+  line-height: 1.5;
+}
+#about .box2 {
+  width: 200px;
+  height: 200px;
+  border: 3px solid #000000;
+  border-radius: 100px;
+  margin: 0 0 0 450px;
+}
+#about .box2 .imgbox {
+  width: 200px;
+  margin: 0 0 0 150px;
+}
+#about .textbox1 h3 {
+  margin: 0 10px 10px 250px;
+  font-size: 45px;
+  font-weight: 700;
+}
+#about .textbox1 h4 {
+  font-size: 45px;
+  font-weight: 700;
+  margin: 0 10px 20px 250px;
+}
+#about .textbox1 h5 {
+  text-align: left;
+  font-size: 25px;
+  margin: 10px 10px 0 250px;
   line-height: 1.5;
 }/*# sourceMappingURL=style.css.map */
